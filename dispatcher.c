@@ -2,9 +2,6 @@
 
 Dispatch Algorithm : Shortest Remaining Time
 
-Citations:
-I used the linked list API, provided in CIS*2750
-
 */
 
 #include <string.h>
@@ -25,9 +22,6 @@ List* completed;
 List* hdd;
 List* blocked;
 
-/*
-Any required standard libraries and your header files here
-*/
 #include "defs.h"
 
 /* 
